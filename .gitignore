@@ -1,12 +1,19 @@
 /.metadata/
 *.pyc
 .DS_Store
+launch.json
+.vscode/
 
 /Summary/ch0/*.png
+/Summary/ch1/*.png
 
 *.pdf
 
 /ch1-IntroductoryChapters
+/IntroductoryChapters/
+
+!Type.py
+
 /ch2-Algorithms
 /ch3-Searching
 /ch4-Collections
@@ -19,3 +26,5 @@
 /ch11-HashTable
 /ch12-Graph
 /ch13-String
+
+Problem-Solving-in-Data-Structures-Algorithms-using-Python.code-workspace
